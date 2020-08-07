@@ -4,6 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Repo navigation Instructions
+-> "src" contains the code for the requirement
+-> "src/pages" contains the two main pages appear on the screen while app is launched.
+-> "src/redux" contains the reducers, actions and store files.
+
+## Setup and Installation
+-> Clone the repo from Github and run `npm install` in terminal from the root folder of the repo.
+-> Next run `npm start`, and it launches the application in the browser.
+
+
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.<br />

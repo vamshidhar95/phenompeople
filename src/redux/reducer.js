@@ -3,7 +3,7 @@ const InitialState = {
         message: "Redux is Created"
     },
     usersList: [],
-    selectedindex: null
+    selectedindex: 1
 };
 
 function Reducer( state = InitialState, action ) {
