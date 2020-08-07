@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  background: #4daab3;
+  height: 70px;
+  color: #fff;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+}
+
+.page-body{
+  padding: 20px;
+  padding-top: 90px;
+}
+
+.user_list_item{
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+
+.user_item_link{
+  text-decoration: none;
+  width: 100%;
+  height: 100%;
+}
